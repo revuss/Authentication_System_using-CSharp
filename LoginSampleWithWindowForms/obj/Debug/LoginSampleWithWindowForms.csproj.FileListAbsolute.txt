@@ -1,0 +1,12 @@
+D:\Zmk\new\LoginSampleWithWindowForms\LoginSampleWithWindowForms\bin\Debug\LoginSampleWithWindowForms.exe.config
+D:\Zmk\new\LoginSampleWithWindowForms\LoginSampleWithWindowForms\bin\Debug\LoginSampleWithWindowForms.exe
+D:\Zmk\new\LoginSampleWithWindowForms\LoginSampleWithWindowForms\bin\Debug\LoginSampleWithWindowForms.pdb
+D:\Zmk\new\LoginSampleWithWindowForms\LoginSampleWithWindowForms\obj\Debug\LoginSampleWithWindowForms.csproj.AssemblyReference.cache
+D:\Zmk\new\LoginSampleWithWindowForms\LoginSampleWithWindowForms\obj\Debug\LoginSampleWithWindowForms.csproj.SuggestedBindingRedirects.cache
+D:\Zmk\new\LoginSampleWithWindowForms\LoginSampleWithWindowForms\obj\Debug\LoginSampleWithWindowForms.Form1.resources
+D:\Zmk\new\LoginSampleWithWindowForms\LoginSampleWithWindowForms\obj\Debug\LoginSampleWithWindowForms.Properties.Resources.resources
+D:\Zmk\new\LoginSampleWithWindowForms\LoginSampleWithWindowForms\obj\Debug\LoginSampleWithWindowForms.csproj.GenerateResource.cache
+D:\Zmk\new\LoginSampleWithWindowForms\LoginSampleWithWindowForms\obj\Debug\LoginSampleWithWindowForms.csproj.CoreCompileInputs.cache
+D:\Zmk\new\LoginSampleWithWindowForms\LoginSampleWithWindowForms\obj\Debug\LoginSampleWithWindowForms.exe
+D:\Zmk\new\LoginSampleWithWindowForms\LoginSampleWithWindowForms\obj\Debug\LoginSampleWithWindowForms.pdb
+D:\Zmk\new\LoginSampleWithWindowForms\LoginSampleWithWindowForms\obj\Debug\LoginSampleWithWindowForms.Dashboard.resources
